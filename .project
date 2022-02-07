@@ -5,6 +5,8 @@
 	<projects>
 	</projects>
 	<buildSpec>
+		
+		//do it i am a team member
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
